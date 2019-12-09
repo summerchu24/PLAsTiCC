@@ -1,2 +1,2 @@
 # PLAsTiCC
- some information and code, models about the PLAsTiCC Astronomical Classification
+solution( code, models) to the PLAsTiCC Astronomical Classification
